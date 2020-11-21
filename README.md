@@ -4,4 +4,4 @@ Trying out interactive map visualization using Folium and Geopandas. Useful if y
 
 Here's a picture of cafes in Kansai, coloured according to their proximity to the center of Kyoto. I'm putting this here because you can't view the interactive maps through the github viewer.
 
-![Kansai Cafes](https://github.com/krishnan-meep/GAN-Shenanigans/blob/master/kansai_cafes.png)
+![Kansai Cafes](https://github.com/krishnan-meep/GAN-Shenanigans/blob/main/kansai_cafes.png)
